@@ -1,5 +1,24 @@
 let allMusic = [
   {
+    name: "Angetenar",
+    artist: "Update soon ",
+    img: "music-1.jpg",
+    src: "Angetenar"
+  },
+  {
+    name: "STAY",
+    artist: "Update soon",
+    img: "music-1.jpg",
+    src: "STAY"
+  },
+  {
+    name: "TEACH ME",
+    artist: "Update soon",
+    img: "music-1.jpg",
+    src: "teach_me"
+  },
+
+  {
     name: "Stitches",
     artist: "Shawn Menders",
     img: "music-1.jpg",
