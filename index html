@@ -6,6 +6,18 @@
       <title>Music Player | Akshay </title>
         <link rel="stylesheet" href="style.css">
           <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+          <style>
+              a {
+                  align-items: center;
+                  text-decoration:none ;
+                  background-color:red ;
+                  text-align: center;
+                  border : black 3px ;
+                  box-shadow:blue 2px ;
+
+
+              }
+          </style>
           </head>
           <body><!DOCTYPE html>
           <html lang="en">
